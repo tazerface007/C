@@ -1,0 +1,6 @@
+# .gitignore for c projects
+
+*.out
+*.txt
+*.c.gch
+*.g.ch
