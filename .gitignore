@@ -1,0 +1,10 @@
+# gitignore for c files
+
+# Binaries
+*.so
+*.out
+*.o
+
+
+# Text Files
+*.txt
