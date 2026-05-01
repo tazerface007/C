@@ -1,6 +1,12 @@
 #include<stdio.h>
 
+void fileread();
 void main(void) {
+	fileread();
+}
+
+
+void fileread() {
 	FILE *fp = fopen("hello.txt", "r");
 	char ch;
 	printf("File handling in c""\n");
@@ -9,3 +15,4 @@ void main(void) {
 		printf("%d : %c\n",++count , ch);
 	}
 }
+
