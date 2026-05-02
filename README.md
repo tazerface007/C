@@ -32,3 +32,5 @@ C did not emerge in isolation; it was the result of a progression of languages d
 | 1989/1990          | ANSI C (C98/C90) | The American National System Institute (ANSI) and later ISO formalized the language to ensure portability accross different hardware |
 | 1999               | C 99      | Introduced new features like inline functions, variable length arrays, and the long long datatype. |
 | 2018/2023          | C17 & C23 | C17 was minor bug-fix update, while C23 (ratifid in 2024) introduced modern features like nullptr and binary literals |
+
+
