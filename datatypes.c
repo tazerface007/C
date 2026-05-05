@@ -16,8 +16,8 @@ void main(void) {
 	printf("Unsigned short: %hu\n", ushort);
 	printf("Integer: %d\n", vint);
 	printf("Unsigned integer: %d\n", uint);
-	printf("Long: %l\n", vlong);
-	printf("Unsigned long: %lu\n", vlong);
+	printf("Long: %ld \n", vlong);
+	printf("Unsigned long: %lu\n", ulong);
 	printf("Float: %f\n", vfloat);
 	printf("Double: %F\n", vdouble);
 	
