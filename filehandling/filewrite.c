@@ -12,7 +12,9 @@ void main(void) {
 
 void write() {
 FILE *fp = fopen("hello.txt", "w");
-	fputs("Hello, World", fp);
+	fputs("Hello, World\n", fp);
+	fputs("How are you?\n\n", fp);
+	fputs("Hope you are doing fine!\n\n", fp);
 	fclose(fp);
 }
 
